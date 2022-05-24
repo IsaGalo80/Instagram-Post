@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    float: left;
+}
+.texarr{
+    margin-left: 60px;
+}
+.tresp{
+    float: right;
+}
+/* .anchor{
+    width: 590px;
+} */
+.ancho{
+    width: 590px;
+}
+.texto{
+    text-align: center;
+    width: 590px;
+}
+.derecha{
+    float: right;
+    /* margin: ; */
+    /* width: 400px; */
+    /* margin: auto; */
+}
